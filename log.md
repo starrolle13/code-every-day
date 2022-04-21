@@ -8,13 +8,13 @@
 
 **Link(s) to work**: [Codewars](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/train/javascript)
 
-### Day 2: June 27, 2020 (Example 2)
+### Day 3: April 20, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through some Katas on Codewars.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I went through some Katas and some of them began to be a little harder. I am starting to have to think harder to figure them out.
 
 **Link(s) to work**
 
-1. [Find the Longest Word in a String]()
-2. [Title Case a Sentence]()
+1. [Find the grade based on score](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/solutions/javascript)
+2. [Split and reverse the string](https://www.codewars.com/kata/559ac78160f0be07c200005a/solutions/javascript)
