@@ -12,9 +12,8 @@
 
 **Today's Progress**: I've gone through some Katas on Codewars.
 
-**Thoughts** I went through some Katas and some of them began to be a little harder. I am starting to have to think harder to figure them out.
+**Thoughts** I went through some Katas that are in ruby and the language is so different but more simplistyic at the same time. I am getting used to the syntax
 
 **Link(s) to work**
 
-1. [Find the grade based on score](https://www.codewars.com/kata/5ad0d8356165e63c140014d4/solutions/javascript)
-2. [Split and reverse the string](https://www.codewars.com/kata/559ac78160f0be07c200005a/solutions/javascript)
+1. [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/ruby)
