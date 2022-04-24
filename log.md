@@ -17,3 +17,13 @@
 **Link(s) to work**
 
 1. [Sentence Smash](https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/ruby)
+
+### Day 4: April 23, 2022
+
+**Today's Progress**: I've gone through some Katas on Codewars.
+
+**Thoughts** I was returning a string and I accidentally put puts at first but it returned nil. Ruby instead automatically returns the last line of a function so that was not needed.
+
+**Link(s) to work**
+
+1. [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/ruby)
