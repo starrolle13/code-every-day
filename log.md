@@ -27,3 +27,13 @@
 **Link(s) to work**
 
 1. [Returning Strings](https://www.codewars.com/kata/55a70521798b14d4750000a4/train/ruby)
+
+### Day 4: April 24, 2022
+
+**Today's Progress**: I've gone through some Katas on Codewars.
+
+**Thoughts** Today I completed a simple challenge that returned a string from a function
+
+**Link(s) to work**
+
+1. [Function 1-hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/ruby)
