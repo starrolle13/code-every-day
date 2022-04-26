@@ -37,3 +37,13 @@
 **Link(s) to work**
 
 1. [Function 1-hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035/train/ruby)
+
+### Day 5: April 25, 2022
+
+**Today's Progress**: I've gone through some Katas on Codewars.
+
+**Thoughts** Today I completed a simple challenge that returned some calculations for a paper. I was abe to answer without looking up the answer
+
+**Link(s) to work**
+
+1. [Beginner Series #1 School Paperwork](https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/train/ruby)
